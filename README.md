@@ -4,3 +4,5 @@ This is my world of Programming Basics Java course at SoftUni Serbia. (: I was v
 The course curriculum you can se on my LinkedIn profile: 
 
 https://www.linkedin.com/in/sanja-vukasinovic/details/education/?profileId=ACoAACkdmvcB6YNswgxBwRXS_rcKTBXHQyLbeUQ
+
+The names of exercises are in Serbian so don't hesitate to use Google translate! (:
